@@ -1,0 +1,6 @@
+apiVersion: v2
+name: auth
+description: Helm chart for idc-cashops-api
+type: application
+version: 4.5.0
+appVersion : "24.4.5.0"
